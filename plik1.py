@@ -1,3 +1,2 @@
 print (3*8)
-
-usdjus
+print(8+6)
